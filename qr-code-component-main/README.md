@@ -18,81 +18,48 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+This will be my first project on frontend-mentor as a newbie and i am excited to get my hands dirty with writing some practical codes. The first for a start is a Qr-code-component. i hope to grow progressively as i try to practice with these projects.
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./)
 
-
-
+![](./images/Screenshot%20(2).png)
+![](./images/Screenshot%20(3).png)
+![](./images/Screenshot%20(4).png)
+![](./images/Screenshot%20(5).png)
+![](./images/Screenshot%20(6).png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Josh35823482/QR-code-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+I started by properly observing the projects to decide on what approach in terms of color and structure to start with. I started with HTML structure and used CSS to follow through the design from the top down to the bottom.
 
-### Built with
-
+### Built with 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
 
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
+I learnt some new color designs using the hsl property.
+I also improved with the use of flexbox in CSS.
+Flex-box is powerful and amazing, it helps for greater and better alignment.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+For me this area will the Grid in CSS, tranform and HSL color property for now.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [README.md](https://www.frontendmentor.com/project) - This helped me for proper documentary. I really liked this pattern and will use it going forward.
 
 ## Author
-
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Josh35823482](https://www.frontendmentor.io/profile/Josh35823482)
+- Twitter - [@Sir_josh01](https://www.twitter.com/Sir_josh01)
 
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+My sincere ackmowledge goes to google chrome for reminding me of some codes.
